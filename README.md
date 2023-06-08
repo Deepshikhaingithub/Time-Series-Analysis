@@ -77,10 +77,12 @@ This project provides insights into the stock price patterns of HCLTECH and demo
 
 **Instructions for Running the Analysis**
 
--- Open the Jupyter Notebook file olympics_data-analysis.ipynb.
+-- Open the Jupyter Notebook file "HCLTech-StockAnalysis.ipynb".
 
 -- Run the notebook cells sequentially to execute the data analysis code.
 
 -- Explore the results, visualizations, and conclusions presented in the notebook.
+
+-- Conclusions and detailed analysis step by step is provided in the jupyter notebook file.
 
 Happy analyzing!
